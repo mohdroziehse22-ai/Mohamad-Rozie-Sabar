@@ -1,0 +1,8 @@
+{
+  "name": "Remix Area 308 Delivery \u0026 Loading Portal",
+  "description": "Digital entry form, approval tracking, and printable permit documentation for Working Area 308 deliveries and loading operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
